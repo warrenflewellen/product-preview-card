@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #F3EAE3;
+}
+
+main {
+border: 1px solid black;
+max-width: fit-content;
+}
+
+
+h1 {
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
