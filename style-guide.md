@@ -9,6 +9,10 @@ The designs were created to the following widths:
 
 ## Colors
 
+### Background color
+
+- #F3EAE3
+
 ### Primary
 
 - Dark cyan: hsl(158, 36%, 37%)
